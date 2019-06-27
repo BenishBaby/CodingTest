@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestCode</string>
+    <string name="bullet">\u25CF</string>
+    <string name="service_unavailable_error_message">Something went wrong...Please try later!</string>
+</resources>
